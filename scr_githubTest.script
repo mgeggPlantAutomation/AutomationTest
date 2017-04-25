@@ -1,0 +1,2 @@
+﻿typetext windowskey, "r"
+typetext "chrome.exe https://www.google.com", returnkey
