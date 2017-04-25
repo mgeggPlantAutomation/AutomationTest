@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="scr_gitHub">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-04-24 13:32:40 -0400</FirstRun>
+  <LastRun>2017-04-24 13:32:58 -0400</LastRun>
+  <TotalTimeOnSuccess>2.325000</TotalTimeOnSuccess>
+ </script>
+</statistics>
