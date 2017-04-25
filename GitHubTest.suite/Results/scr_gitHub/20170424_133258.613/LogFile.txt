@@ -1,5 +1,0 @@
-﻿2017-04-24 13:32:58.615 -0400	START		Running scr_gitHub.script
-2017-04-24 13:32:58.673 -0400	typetext		[windowsKey]r	1	on_scr_github	scr_gitHub.script
-2017-04-24 13:32:59.746 -0400	typetext		chrome.exe https://github.com/[returnKey]	2	on_scr_github	scr_gitHub.script
-2017-04-24 13:32:59.780 -0400	EndTestCase		(Duration:"1.162", Errors:"0", Exceptions:"0", StartTime:"2017-04-24 13:32:58 -0400", Successes:"1", TestCase:"scr_gitHub.script", Warnings:"0")
-2017-04-24 13:32:59.822 -0400	SUCCESS		Execution Time 0:00:01 scr_gitHub.script
